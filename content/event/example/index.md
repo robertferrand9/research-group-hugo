@@ -13,7 +13,22 @@ address:
   country: United States
 
 summary: Presenting Paper 102 at the TPEC 2023 Conference
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'With the world’s ever-changing climate and
+reliance on power to complete day-to-day tasks, power
+outages are becoming more and more detrimental. An
+outage in a specific area can take hours, days, or even
+weeks to fix, and part of the problem comes down to
+pinpointing the location where the outage happened. This
+downtime can be significantly elongated in rural or sparsely
+populated areas. The authors of this paper have developed
+a bayesian algorithm for the radial and the loop power
+distribution systems to help diminish this downtime. Using
+estimated parameters, we propose a technique to determine
+the precise location of power outages by pinging proximal
+internet connections. Furthermore, we can examine the
+behavior of power distribution systems in the real world
+to determine a probabilistic similarity between estimation
+and reality.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
