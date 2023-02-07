@@ -1,15 +1,15 @@
 ---
 title: Example Event
 
-event: Wowchemy Conference
+event: Texas Power and Energy Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Texas A&M University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 400 Bizzell St
+  city: College Station
+  region: TX
+  postcode: '77843'
   country: United States
 
 summary: An example event.
