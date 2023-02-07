@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'A Bayesian Measure For Predicting Outages in Power Distribution Systems'
 authors:
   - admin
   - Adan Vela
