@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 吳恩達
+title: Adan Vela
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Adan Vela
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Industrial Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Primary research interest involves human-in-the-loop control and decision systems.
 
 interests:
   - Artificial Intelligence
@@ -27,15 +27,12 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Mechanical Engineering
+      institution: Georgia Institute of Technology
+    - course: MEng in Mechanical Engineering
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Mechanical Engineering
+      institution: University of California, Berkeley
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,16 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'Adan.Vela@ucf.edu'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,9 +55,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Vela has worked on projects involving modeling, simulation, and analysis of air transportation systems. Efforts include coupled pilot-control-aircraft models; aircraft blunder and anomaly detection systems; next-generation collision avoidance systems; safety analysis of NextGen concepts; and agent-based simulations of air transportation systems.
