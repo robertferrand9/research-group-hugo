@@ -1,5 +1,5 @@
 ---
-title: Texas Power and Energy Conference (TPEC2023)
+title: Example Event
 
 event: Texas Power and Energy Conference
 event_url: https://example.org
