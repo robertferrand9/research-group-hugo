@@ -2,7 +2,7 @@
 title: Texas Power and Energy Conference (TPEC2023)
 
 event: Texas Power and Energy Conference (TPEC2023)
-event_url: https://tpec.engr.tamu.edu/
+event_url: www.example.com
 
 location: Texas A&M University
 address:
