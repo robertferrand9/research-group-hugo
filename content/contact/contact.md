@@ -15,12 +15,15 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: robertmferrand@gmail.com, 
-  email: adan.vela@ucf.edu
+  email: robertmferrand@gmail.com
 
   # Automatically link email and phone or display as text?
   autolink: true
 
+content:
+  email: adan.vela@ucf.edu
+
+  autolink: true
 
 design:
   columns: '1'
