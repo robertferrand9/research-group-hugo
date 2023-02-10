@@ -17,7 +17,7 @@ content:
 
   email: robertmferrand@gmail.com
 
-  #email: adan.vela@ucf.edu
+  email2: adan.vela@ucf.edu
 
   # Automatically link email and phone or display as text?
   autolink: true
