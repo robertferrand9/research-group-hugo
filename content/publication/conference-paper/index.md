@@ -13,16 +13,13 @@ doi: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *IEEEE*
+publication_short: In *IEEE*
 
 abstract: With the world's ever-changing climate and reliance on power to complete day-to-day tasks, power outages are becoming more and more detrimental. An outage in a specific area can take hours, days, or even weeks to fix, and part of the problem comes down to pinpointing the location where the outage happened. This downtime can be significantly elongated in rural or sparsely populated areas. The authors of this paper have developed a bayesian algorithm for the radial and the loop power distribution systems to help diminish this downtime. Using estimated parameters, we propose a technique to determine the precise location of power outages by pinging proximal internet connections. Furthermore, we can examine the behavior of power distribution systems in the real world to determine a probabilistic similarity between estimation and reality.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
 tags:
-  - Source Themes
+  - IEEE
 featured: true
 
 
