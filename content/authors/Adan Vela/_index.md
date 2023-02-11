@@ -21,9 +21,9 @@ organizations:
 bio: Primary research interest involves human-in-the-loop control and decision systems.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Air Transportation Systems
+  - Predictive Analytics
+  - Human-in-the-loop Control
 
 education:
   courses:
